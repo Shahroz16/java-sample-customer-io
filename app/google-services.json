@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "227948414236",
+    "project_id": "customerio-javasample",
+    "storage_bucket": "customerio-javasample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227948414236:android:2d6b933479860c19f566d9",
+        "android_client_info": {
+          "package_name": "com.customerio.javasample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227948414236-83l9ssabvtpaiukeu3rtf0i8mv9bkf5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRyvrUTRCc4Q5dVEaUlDiLaGH3vbUdgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227948414236-83l9ssabvtpaiukeu3rtf0i8mv9bkf5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
